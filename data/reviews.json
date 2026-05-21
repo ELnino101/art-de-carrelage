@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Marie Dupont",
+    "location": "Auxerre",
+    "rating": 5,
+    "text": "Excellent travail pour la rénovation de notre salle de bain. L'équipe a été ponctuelle, professionnelle et le résultat dépasse nos attentes. Je recommande vivement !",
+    "project": "Rénovation salle de bain",
+    "approved": true,
+    "createdAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Pierre Martin",
+    "location": "Chablis",
+    "rating": 5,
+    "text": "Nous avons fait appel à Auxerre Carrelage pour notre terrasse. Travail impeccable, conseils avisés sur le choix des matériaux. Très satisfait du rapport qualité-prix.",
+    "project": "Terrasse extérieure",
+    "approved": true,
+    "createdAt": "2024-02-20T14:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Sophie Bernard",
+    "location": "Joigny",
+    "rating": 5,
+    "text": "Pose de faïence dans notre cuisine réalisée avec soin et précision. L'artisan est à l'écoute et respecte les délais. Un travail vraiment soigné, merci !",
+    "project": "Crédence cuisine",
+    "approved": true,
+    "createdAt": "2024-03-10T09:00:00.000Z"
+  }
+]
